@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif)]
+[![MasterHead](https://dlabs.ai/wp-content/uploads/2020/09/data-science-trends-2021.jpg)]
 <h1 align="center">Hi 👋, I'm Gautam</h1>
 <h3 align="center">As a natural-born go-getter, my passion has continuously driven me to expand my knowledge, experience, and relationships. In continuation of this, I have completed 500 hours+ of Data Science and Machine Learning at Jovian, which covers 4 projects and 12 Assignments. Apart from that, I have a strong background in Differential equations, Vector calculus, and Linear algebra, computing from my graduate studies at IIT Bombay ( Aerospace Engineering-Major & Minor- Mechanical-Engineering). Motivated and passionate professional with goals of flourishing while bringing forth a strong academic background; targeting role in arena of Data Science and Machine learning</h3>
 <img align="right" alt="coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif"
